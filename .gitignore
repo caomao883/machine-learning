@@ -8,3 +8,6 @@
 /build
 /captures
 *data*
+*result*
+*csv*
+*model*
